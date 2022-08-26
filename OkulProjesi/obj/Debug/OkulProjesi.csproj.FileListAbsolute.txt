@@ -1,0 +1,17 @@
+C:\Users\kubra\OneDrive\Masaüstü\udemy projeler\OkulProjesi\OkulProjesi\bin\Debug\OkulProjesi.exe.config
+C:\Users\kubra\OneDrive\Masaüstü\udemy projeler\OkulProjesi\OkulProjesi\bin\Debug\OkulProjesi.exe
+C:\Users\kubra\OneDrive\Masaüstü\udemy projeler\OkulProjesi\OkulProjesi\bin\Debug\OkulProjesi.pdb
+C:\Users\kubra\OneDrive\Masaüstü\udemy projeler\OkulProjesi\OkulProjesi\obj\Debug\OkulProjesi.csproj.AssemblyReference.cache
+C:\Users\kubra\OneDrive\Masaüstü\udemy projeler\OkulProjesi\OkulProjesi\obj\Debug\OkulProjesi.csproj.SuggestedBindingRedirects.cache
+C:\Users\kubra\OneDrive\Masaüstü\udemy projeler\OkulProjesi\OkulProjesi\obj\Debug\OkulProjesi.Form1.resources
+C:\Users\kubra\OneDrive\Masaüstü\udemy projeler\OkulProjesi\OkulProjesi\obj\Debug\OkulProjesi.Properties.Resources.resources
+C:\Users\kubra\OneDrive\Masaüstü\udemy projeler\OkulProjesi\OkulProjesi\obj\Debug\OkulProjesi.csproj.GenerateResource.cache
+C:\Users\kubra\OneDrive\Masaüstü\udemy projeler\OkulProjesi\OkulProjesi\obj\Debug\OkulProjesi.csproj.CoreCompileInputs.cache
+C:\Users\kubra\OneDrive\Masaüstü\udemy projeler\OkulProjesi\OkulProjesi\obj\Debug\OkulProjesi.exe
+C:\Users\kubra\OneDrive\Masaüstü\udemy projeler\OkulProjesi\OkulProjesi\obj\Debug\OkulProjesi.pdb
+C:\Users\kubra\OneDrive\Masaüstü\udemy projeler\OkulProjesi\OkulProjesi\obj\Debug\OkulProjesi.FrmOgrenciNotlar.resources
+C:\Users\kubra\OneDrive\Masaüstü\udemy projeler\OkulProjesi\OkulProjesi\obj\Debug\OkulProjesi.FrmOgretmen.resources
+C:\Users\kubra\OneDrive\Masaüstü\udemy projeler\OkulProjesi\OkulProjesi\obj\Debug\OkulProjesi.FrmKulupIslemleri.resources
+C:\Users\kubra\OneDrive\Masaüstü\udemy projeler\OkulProjesi\OkulProjesi\obj\Debug\OkulProjesi.FrmDersler.resources
+C:\Users\kubra\OneDrive\Masaüstü\udemy projeler\OkulProjesi\OkulProjesi\obj\Debug\OkulProjesi.FrmOgrenci.resources
+C:\Users\kubra\OneDrive\Masaüstü\udemy projeler\OkulProjesi\OkulProjesi\obj\Debug\OkulProjesi.FrmSınavNotlar.resources
